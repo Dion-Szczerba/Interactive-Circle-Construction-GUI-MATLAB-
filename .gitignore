@@ -1,0 +1,13 @@
+# MATLAB autosave and temp files
+*.asv
+*.m~
+*.autosave
+
+# MATLAB session/settings
+*.mat
+slprj/
+*.slxc
+
+# OS cruft
+.DS_Store
+Thumbs.db
