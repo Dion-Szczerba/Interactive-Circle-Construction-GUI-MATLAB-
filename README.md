@@ -1,6 +1,6 @@
 # Interactive Circle Construction GUI (MATLAB)
 
-An interactive MATLAB application for classical geometric constructions with circles — built from scratch with no toolboxes. Click points on a canvas and the program constructs tangential circles, perpendicular bisectors, a circumscribed circle through snapped points, circle–circle intersections, and applies affine transformations in homogeneous coordinates.
+An interactive MATLAB application for classical geometric constructions with circles. Built from scratch with no toolboxes. Click points on a canvas and the program constructs tangential circles, perpendicular bisectors, a circumscribed circle through snapped points, circle–circle intersections, and applies affine transformations in homogeneous coordinates.
 
 <!-- TODO: add a screenshot or a short GIF of the GUI in action here.
      Run gui.m, draw a full construction, and capture the window.
